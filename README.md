@@ -1,2 +1,3 @@
 # python-course
-Learning Python - Programming With Mosh
+
+Python - Programming With Mosh
